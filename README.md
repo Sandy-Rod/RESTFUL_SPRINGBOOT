@@ -2,7 +2,7 @@
 ## SHIELD DATABASE
 Este es el proyecto que contiene todo el código generado durante la sección Servicios Web con Spring Boot.
 
-Este desarrollo es y¡un Servicio Web de tipo REST full que contendrá dos recursos principales: Héroes y Poderes.
+Este desarrollo es un Servicio Web de tipo RESTful que contendrá dos recursos principales: Héroes y Poderes.
 
 [id]:diseño
 ### SHIELD DATABASE
